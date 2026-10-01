@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-01",
+  "blocks": [
+    {
+      "task": "Design sketch",
+      "start": "09:15",
+      "end": "10:15",
+      "priority": 1,
+      "score": 19.7143
+    },
+    {
+      "task": "Review PRs",
+      "start": "10:15",
+      "end": "11:00",
+      "priority": 3,
+      "score": 16.0
+    },
+    {
+      "task": "Write project spec",
+      "start": "12:00",
+      "end": "13:30",
+      "priority": 2,
+      "score": 14.6667
+    },
+    {
+      "task": "Inbox zero",
+      "start": "13:30",
+      "end": "14:00",
+      "priority": 5,
+      "score": 12.0
+    }
+  ]
+}

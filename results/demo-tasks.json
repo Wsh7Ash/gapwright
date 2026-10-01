@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Write project spec",
+    "duration_minutes": 90,
+    "priority": 2
+  },
+  {
+    "title": "Review PRs",
+    "duration_minutes": 45,
+    "priority": 3
+  },
+  {
+    "title": "Inbox zero",
+    "duration_minutes": 30,
+    "priority": 5
+  },
+  {
+    "title": "Design sketch",
+    "duration_minutes": 60,
+    "priority": 1,
+    "deadline": "2026-10-02"
+  }
+]
